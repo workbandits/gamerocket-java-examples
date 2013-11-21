@@ -1,6 +1,7 @@
 <div id="stat" class="compartiment">
     <ul class="inline_menu">
         <li><span id="or">${data.current_gold}</span> gold</li>
+        <li><span id="xp">${data.current_xp}</span> XP</li>
     </ul>
 </div>
 <div class="groupe_compartiment">

@@ -1,8 +1,9 @@
 <!doctype html>
 <html>
     <head>
-        <#include "head.ftl">
         <title>Mine</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="/css/style.css">
     </head>
 
     <body>
